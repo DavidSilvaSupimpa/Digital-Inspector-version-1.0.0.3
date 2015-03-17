@@ -55,7 +55,7 @@ body { background: #34495D; }
 
 /*== FOOTER ==*/
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 800px) {
 	body {background: #fff}
 	.logo img { width: 25%; height: auto; margin-top: 95px; }
 	.formulario .btn { width: 50%; }
